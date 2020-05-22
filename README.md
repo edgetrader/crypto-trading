@@ -1,7 +1,7 @@
 # Pairs Trading using Co-integrated Cryptocurrency Pairs
 
 ## Summary
-An attempt to implement a trading strategy on co-integrated cryptocurrency pairs by making a pair trade when there is a temporary divergence, to sell the outperformancing currency and to buy the underperforming currency.
+An attempt to implement a trading strategy on co-integrated cryptocurrency pairs by making a pair trade when there is a temporary divergence, to sell the outperforming currency and to buy the underperforming currency.
 
 Analysing whether this trading strategy will work and what are the considerations to achieve better performance.
 
